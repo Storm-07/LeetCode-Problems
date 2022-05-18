@@ -1,0 +1,17 @@
+// find Kth largest element
+
+import java.util.Arrays;
+
+public class KthLargestElement {
+    public static int KthLargest(int[] nums, int k) {
+        Arrays.sort(nums);
+        int length = nums.length;
+        return nums[length - k];
+    }
+
+    public static void main(String[] args) {
+        int[] nuggets = {4, 2, 3, 6};
+        int k = 2;
+        System.out.println(k + " largest element is: " + KthLargest(nuggets, k));
+    }
+}
