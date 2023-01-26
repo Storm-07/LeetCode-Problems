@@ -10,3 +10,4 @@ I'm not really sure what to put in this README file so I'll just write down the 
 8/20/22 - MedianOfTwoArrays.java <br />
 12/30/22 - LongestPalindrome.java (!)<br />
 1/23/23 - ReverseInteger.java (tried this one for a couple hours only to find a much simpler solution using math :') )<br />
+1/26/23 - PalindromeInteger.java <br />
