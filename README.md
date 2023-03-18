@@ -17,4 +17,4 @@ I'm not really sure what to put in this README file so I'll just write down the 
 3/10/23 - Three_Sum.java <br />
 3/14/23 - LetterCombination.py <br />
 3/16/23 - RemoveNode.js <br />
-3/17/23 - ValidParenthesis <br />
+3/17/23 - ValidParenthesis.py <br />
