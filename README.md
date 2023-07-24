@@ -28,3 +28,6 @@ I'm not really sure what to put in this README file so I'll just write down the 
   - .join function joins elements of an iterable by a string separator: '/'.join = x/y/z if arr is [x,y,z] (works for tuples, lists, etc.) <br/ >
   - .format function will take values given as parameters and place them into a string.
     ex: str = "hello my name is {} and I like {}".format(name, concept) if name = storm and concept = coding, it will fill in the blanks. <br />
+
+7/24/23 - BestPokerHand.java <br />
+  - be wary of nested for loops when counting <br />
