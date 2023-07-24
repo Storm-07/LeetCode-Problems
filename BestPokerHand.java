@@ -1,4 +1,4 @@
-class bestPokerHand {
+class BestPokerHand {
     public static String bestHand(int[] ranks, char[] suits) {
         String bestHand = "";
         char suit = suits[0];
