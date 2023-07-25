@@ -31,3 +31,9 @@ I'm not really sure what to put in this README file so I'll just write down the 
 
 7/24/23 - BestPokerHand.java <br />
   - be wary of nested for loops when counting <br />
+
+7/25/23 - ThreeLetterSeparation.java <br />
+ - Stringbuilder sb = new Stringbuilder(); <br />
+ - sb.append(char or str?)
+ - sb.setLength(0) clears the stringbuilder <br />
+ - You can convert arraylists to arrays easily if it is more convenient to use one (see return line) <br />
