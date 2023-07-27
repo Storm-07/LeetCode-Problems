@@ -37,3 +37,9 @@ I'm not really sure what to put in this README file so I'll just write down the 
  - sb.append(char or str?)
  - sb.setLength(0) clears the stringbuilder <br />
  - You can convert arraylists to arrays easily if it is more convenient to use one (see return line) <br />
+
+7/27/23 - ChunkArray.js <br/ >
+ - const and let and var for variables/fields in js. <br />
+ - equivalents in js are more akin to triple equals signs at least for numbers. <br />
+ - .push function is used to append elements to an array <br />
+ - O(n) time complexity for both runtime and memory. One loop is used and variables are used proportionately <br />
