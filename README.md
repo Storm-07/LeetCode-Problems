@@ -41,5 +41,5 @@ I'm not really sure what to put in this README file so I'll just write down the 
 7/27/23 - ChunkArray.js <br/ >
  - const and let and var for variables/fields in js. <br />
  - equivalents in js are more akin to triple equals signs at least for numbers. <br />
- - .push function is used to append elements to an array <br />
+ - .push function is used to append elements to an array (haha just noticed I wasn't sure about this on 3/20/23) <br />
  - O(n) time complexity for both runtime and memory. One loop is used and variables are used proportionately <br />
