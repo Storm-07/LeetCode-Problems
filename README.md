@@ -25,7 +25,7 @@ I'm not really sure what to put in this README file so I'll just write down the 
   
 7/23/23 - OptimalDivision.py <br />
   - format is arr[0]/(arr[1]/arr[2]/.../arr[N - 1]) <br />
-  - .join function joins elements of an iterable by a string separator: '/'.join = x/y/z if arr is [x,y,z] (works for tuples, lists, etc.) <br/ >
+  - .join function joins elements of an iterable by a string separator: '/'.join = x/y/z if arr is [x,y,z] (works for tuples, lists, etc.)
   - .format function will take values given as parameters and place them into a string.
     ex: str = "hello my name is {} and I like {}".format(name, concept) if name = storm and concept = coding, it will fill in the blanks. <br />
 
