@@ -43,3 +43,9 @@ I'm not really sure what to put in this README file so I'll just write down the 
  - equivalents in js are more akin to triple equals signs at least for numbers. <br />
  - .push function is used to append elements to an array (haha just noticed I wasn't sure about this on 3/20/23) <br />
  - O(n) time complexity for both runtime and memory. One loop is used and variables are used proportionately <br />
+
+7/31/23
+ - self is a default parameter supplied to functions in python. Used to acess variables from instances of the class (I think?) <br />
+ - while loop logic is self explanatory <br />
+ - int() function in python takes any integer represented as a string and converts it to whatever base that is supplied in the second parameter (I think) <br />
+ - [::-1] is used to reverse a list, tuple, etc. I believe the colons have to do with parsing and the -1 ignores the front because that is the sign which is not needed <br />
