@@ -49,3 +49,7 @@ I'm not really sure what to put in this README file so I'll just write down the 
  - while loop logic is self explanatory <br />
  - int() function in python takes any integer represented as a string and converts it to whatever base that is supplied in the second parameter (I think) <br />
  - [::-1] is used to reverse a list, tuple, etc. I believe the colons have to do with parsing and the -1 ignores the front because that is the sign which is not needed <br />
+
+8/2/23 - createCounter.js
+ - I think const and let are mainly what we use in functions for variables, var seems to be used for function declarations? <br />
+ - If you want to invoke functions used within a function, you must encapsulate them within a return block. (I think; refer to code) <br />
