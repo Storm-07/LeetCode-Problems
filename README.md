@@ -58,4 +58,4 @@ I'm not really sure what to put in this README file so I'll just write down the 
 I am having a hard time digesting the solution for this one as it was not mine. I understand how most of this works it's just that I noticed that the if statement in the recursive method seems to only check leaf nodes (nodes that do not have any children). The problem I see with this is that it is not making comparisons between ancestors and descendants with children nodes even if they contain a greater absolute difference. However this solution still passes the test cases, so someday I will have to come back to this one and try and figure out why it works. <br />
 
 8/6/23 - SearchInRotatedSortedArray.java <br />
-Very Easy problem, solved in about 2-3 minutes. Iterate through array, if indexed int is equal to the target the return true. <br />
+Very Easy problem, solved in about 2-3 minutes. Iterate through array, if indexed int is equal to the target then return true. <br />
