@@ -62,3 +62,15 @@ Very Easy problem, solved in about 2-3 minutes. Iterate through array, if indexe
 
 8/7/23 - GreatestCommonDivisor.java <br />
 Not too bad, only issue was that I did not know how to actually calculate gcd mathematically. so apparently it is a euclidian algorithm, I am a little too tired at the moment to break it down. Feel free to come back to check out how the modulo process works later. Other than that finding the greatest and smallest elements of an array is simple. <br />
+
+8/12/23 - AstericsCount.java <br />
+TERNARAY CONDITIONAL OPERATOR:
+EXAMPLE) barCount += ch == '|' ? 1 : 0; <br />
+equivalent to: <br />
+if (ch == '|') {
+    barCount += 1;
+} else {
+    barCount += 0;
+}
+
+
