@@ -67,10 +67,10 @@ Not too bad, only issue was that I did not know how to actually calculate gcd ma
 TERNARAY CONDITIONAL OPERATOR:
 EXAMPLE) barCount += ch == '|' ? 1 : 0; <br />
 equivalent to: <br />
-if (ch == '|') {
-    barCount += 1;
-} else {
-    barCount += 0;
-}
+if (ch == '|') { <br />
+    barCount += 1; <br />
+} else { <br />
+    barCount += 0; <br />
+} <br />
 
 
