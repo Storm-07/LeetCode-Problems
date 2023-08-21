@@ -74,3 +74,4 @@ if (ch == '|') { <br />
 } <br />
 
 
+# Began Working on A+ certification so there may be a gap (8/1/23 - NOW) <br />
