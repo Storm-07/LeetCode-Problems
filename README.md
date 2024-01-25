@@ -75,3 +75,6 @@ if (ch == '|') { <br />
 
 
 ## Began Working on A+ certification so there may be a gap (8/1/23 - NOW) <br />
+
+1/24/24- potions.java <br />
+I figured this medium level java question out without any help after not coding for months however it did not pass test cases completely because it has a time complexity of O(N^2) :( <br />
