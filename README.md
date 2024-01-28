@@ -76,5 +76,8 @@ if (ch == '|') { <br />
 
 ## Began Working on A+ certification so there may be a gap (8/1/23 - NOW) <br />
 
-1/24/24- potions.java <br />
+1/24/24 - potions.java <br />
 I figured this medium level java question out without any help after not coding for months however it did not pass test cases completely because it has a time complexity of O(N^2) :( <br />
+
+1/27/24 - FizzBuzz.java <br />
+Could've sworn I did the fizzbuzz problem already, must've stored it in a local folder or something instead of my coding folder. Maybe on a different machine, didn't need much help with this one either. Could probably be optimized but I can confidently say that about any code I write, only thing I looked up was how to convert int to string in java which is just 'String.valueOf(int)'. <br />
