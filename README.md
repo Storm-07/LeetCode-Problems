@@ -74,10 +74,13 @@ if (ch == '|') { <br />
 } <br />
 
 
-## Began Working on A+ certification so there may be a gap (8/1/23 - NOW) <br />
+## Began Working on A+ certification so there may be a gap (8/1/23 - 2/10/24) <br />
 
 1/24/24 - potions.java <br />
 I figured this medium level java question out without any help after not coding for months however it did not pass test cases completely because it has a time complexity of O(N^2) :( <br />
 
 1/27/24 - FizzBuzz.java <br />
 Could've sworn I did the fizzbuzz problem already, must've stored it in a local folder or something instead of my coding folder. Maybe on a different machine, didn't need much help with this one either. Could probably be optimized but I can confidently say that about any code I write, only thing I looked up was how to convert int to string in java which is just 'String.valueOf(int)'. <br />
+
+3/17/24 - MinDeletions.java <br />
+This one was a tough guy. I enlisted the help of chatGPT after trying it for half an hour or so but neither of us could get it to function properly haha. The answer that I came to was a solution from the discussion forum. Took a while to figure out how it worked but eventually got it. the comments are a little ambiguous to understand but if you walk through each statement in that large return of the method, it makes sense eventually. <br />
