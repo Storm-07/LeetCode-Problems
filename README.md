@@ -84,3 +84,6 @@ Could've sworn I did the fizzbuzz problem already, must've stored it in a local 
 
 3/17/24 - MinDeletions.java <br />
 This one was a tough guy. I enlisted the help of chatGPT after trying it for half an hour or so but neither of us could get it to function properly haha. The answer that I came to was a solution from the discussion forum. Took a while to figure out how it worked but eventually got it. the comments are a little ambiguous to understand but if you walk through each statement in that large return of the method, it makes sense eventually. <br />
+
+3/27/24 - SimilarRectangles.java <br />
+Not a super difficult problem if you know how to traverse 2d int arrays in java but the problem is I couldn't submit again due to the large scale test cases exceeding the time limit. Even when I tried a few of the solutions from the forums using hashmaps and hashmap methods, some of the final test cases resulted in blatantly incorrect results which is strange. I will cake this up to a draw today but if you can figure it out props to you. <br />
