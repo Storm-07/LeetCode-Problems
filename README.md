@@ -87,3 +87,6 @@ This one was a tough guy. I enlisted the help of chatGPT after trying it for hal
 
 3/27/24 - SimilarRectangles.java <br />
 Not a super difficult problem if you know how to traverse 2d int arrays in java but the problem is I couldn't submit again due to the large scale test cases exceeding the time limit. Even when I tried a few of the solutions from the forums using hashmaps and hashmap methods, some of the final test cases resulted in blatantly incorrect results which is strange. I will cake this up to a draw today but if you can figure it out props to you. <br />
+
+3/28/24 - NumOccurences.java <br />
+Had to brush up on hashmap knowledge with this one. Here's what a few of the methods from the java library do as far as I know. '.put()' inserts a new key, value element into the hashmap, '.getOrDefault()' finds a certain key and either returns the value of that key, or a specified default parameter. '.values()' returns only the values of the map and not the keys. Took a little bit of conceptual thinking to see how this one works. <br />
