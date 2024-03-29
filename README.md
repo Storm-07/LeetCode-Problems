@@ -90,3 +90,6 @@ Not a super difficult problem if you know how to traverse 2d int arrays in java 
 
 3/28/24 - NumOccurences.java <br />
 Had to brush up on hashmap knowledge with this one. Here's what a few of the methods from the java library do as far as I know. '.put()' inserts a new key, value element into the hashmap, '.getOrDefault()' finds a certain key and either returns the value of that key, or a specified default parameter. '.values()' returns only the values of the map and not the keys. Took a little bit of conceptual thinking to see how this one works. <br />
+
+3/29/24 - Hamsters.java <br />
+Haven't used stringbuilder in a little while but this wasn't too hard to understand. Some of the logic checking for successful hamster feeding cases was a bit confusing but that's it. Just messing around with indexing, checking prior and subsequent indexes. <br />
