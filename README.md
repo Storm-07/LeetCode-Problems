@@ -93,3 +93,6 @@ Had to brush up on hashmap knowledge with this one. Here's what a few of the met
 
 3/29/24 - Hamsters.java <br />
 Haven't used stringbuilder in a little while but this wasn't too hard to understand. Some of the logic checking for successful hamster feeding cases was a bit confusing but that's it. Just messing around with indexing, checking prior and subsequent indexes. <br />
+
+3/30/24 - SortByParity.java <br />
+This one is rated easy on leetcode however I had trouble with it haha! Not a hard problem when you look at the code, similar to yesterday the trouble was mainly in the logic behind indexing. The solution I came to find utilized two pointer variables to traverse the array in the problem to sort by even or odd elements. The two pointer traversal method is one I see used a LOT in leetcode solution forums, and probably for good reason too, it beat 100% of users during runtime and 96% of users for memory usage, needless to say, it is efficient. I'll have to commit to using this type of traversal if I want to get things done quickly. Only downside is that it can be hard to keep track of two different elements moving at the same time, at least for me. <br />
