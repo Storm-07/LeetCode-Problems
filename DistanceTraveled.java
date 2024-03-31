@@ -15,7 +15,7 @@ public class DistanceTraveled {
     }
 
     public static void main(String[] args) {
-        int main = 9;
+        int main = 10;
         int additional = 2;
 
         System.out.println(distanceTraveled(main, additional));
