@@ -99,3 +99,6 @@ This one is rated easy on leetcode however I had trouble with it haha! Not a har
 
 3/31/24 - DistanceTraveled.java <br />
 HAPPY EASTER CODERS! Today I got an "easy" problem from the leetcode shuffle again but I was foiled by my own foolishness. The description is easy to understand but I did overlook one detail that was included in the last clause of the second paragraph of the description. Yikes! If I learned anything today it would be that you should read the question very carefully everytime or else you'll end up tripping over every test case that comes your way! The code is very easy to understand with this problem. <br />
+
+4/1/24 - WordSubSets.java (!)<br />
+I understand the logic behind the solution I saw here, although I didn't have a lot of time to try it for myself. The big problem I had with this was that I could not get any elements from the final arraylist to print in the main method to test it. Apparently it works because it was accepted by the leetcode compiler however I do not fully comprehend it. <br />
