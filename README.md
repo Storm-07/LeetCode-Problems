@@ -102,3 +102,6 @@ HAPPY EASTER CODERS! Today I got an "easy" problem from the leetcode shuffle aga
 
 4/1/24 - WordSubSets.java (!)<br />
 I understand the logic behind the solution I saw here, although I didn't have a lot of time to try it for myself. The big problem I had with this was that I could not get any elements from the final arraylist to print in the main method to test it. Apparently it works because it was accepted by the leetcode compiler however I do not fully comprehend it. <br />
+
+4/2/24 - HarshadsNumber.java <br />
+Easy problem today, might attempt another later but who knows. This problem was only tricky because you have to get the sum of the digits of an integer to start which means I created a helped method to convert the int to a string, add the numbers and then return the sum. Other than that, the logic is very easy to follow. <br />
