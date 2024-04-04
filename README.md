@@ -105,3 +105,7 @@ I understand the logic behind the solution I saw here, although I didn't have a 
 
 4/2/24 - HarshadsNumber.java <br />
 Easy problem today, might attempt another later but who knows. This problem was only tricky because you have to get the sum of the digits of an integer to start which means I created a helped method to convert the int to a string, add the numbers and then return the sum. Other than that, the logic is very easy to follow. <br />
+
+
+4/3/24 - MinArrayValue.java (!) <br />
+I'm not too sure how difficult this problem actually is because I don't have much time to look it over but from the looks of the solution, there is not a lot to it. I'm not sure why there is a division operation in the for loop but someday if I come back to look at this hopefully I'll be able to figure it out. I can at least tell there is a comparison between maximum values but that's it for now. <br />
