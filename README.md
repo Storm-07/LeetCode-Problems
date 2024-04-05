@@ -109,3 +109,6 @@ Easy problem today, might attempt another later but who knows. This problem was 
 
 4/3/24 - MinArrayValue.java (!) <br />
 I'm not too sure how difficult this problem actually is because I don't have much time to look it over but from the looks of the solution, there is not a lot to it. I'm not sure why there is a division operation in the for loop but someday if I come back to look at this hopefully I'll be able to figure it out. I can at least tell there is a comparison between maximum values but that's it for now. <br />
+
+4/5/23 - MaxAlphanumericValue.java <br />
+This was an easy rated problem in leetcode. I had two methods to help get the job done. The helper method returns either the length of the string or the numeric value as asked by the question while the original method gets the helper method value and then parses the String array to compare and mark the maximum value between a string length and an alphanumeric value. Also I sadly missed a day yesterday so the streak is broken :'( <br />
