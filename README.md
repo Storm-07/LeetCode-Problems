@@ -115,3 +115,6 @@ This was an easy rated problem in leetcode. I had two methods to help get the jo
 
 4/6/24 - HighAccessEmployees.java (!)<br />
 Wow this problem was the embodiment of the opposite problem I've been having with these leetcode problems. The description seemed difficult to understand at first and it was, however, I was able to understand it conceptually within about 10-15 minutes. The main problem was that I had no idea how to code it. I spent a little bit thinking about how to even parse a 2d List of strings but that knowledge is unknown to me. There are methods in the java library that I am unfamiliar with that allow you to manipulate a data structure like that that I simply do not know off the top of my head. Obviously the solution that I saw threw a hashmap at it to start lol. That makes sense though because of the structure of the list of lists supplied. I left a good amount of comments trying to explain what I at least thought was going on but I will definitely have to come back and try this one again someday. <br />
+
+4/7/24 - BuyStockSellStock.java <br />
+This problem is a little difficult to handle at first conceptually, but after looking it over it isn't too hard. Only part I don't understand is the first line within the for loop but the rest is easy to grasp. <br />
