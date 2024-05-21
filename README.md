@@ -118,3 +118,7 @@ Wow this problem was the embodiment of the opposite problem I've been having wit
 
 4/7/24 - BuyStockSellStock.java <br />
 This problem is a little difficult to handle at first conceptually, but after looking it over it isn't too hard. Only part I don't understand is the first line within the for loop but the rest is easy to grasp. <br />
+
+
+5/20/24 - ThirdMaxNumber.java <br />
+Sorry for not updating in a while after being consistent. Today's problem is self-explanatory, find the third largest maximum in an array of integers. However if there are less than three elements in the array, return the first maximum. I had a slightly difficult time with this one but figured it out eventually, it's important to manage your data structures during problems like this. To be specific, I needed a hashset to keep track of values that had already been checked and maximum values to update continuously. The logic behind this one is tricky but it's a little easier to work backwards when updating values. I also learned what the "continue" statement does today. It is a java statement that skips a current iteration in a loop. Seems pretty helpful. <br />
