@@ -134,3 +134,6 @@ Not too difficult of a medium problem. Traverse an array, create a list of uniqu
 
 smallCharStrings.java <br />
 Proud to say I figured this one out mostly on my own! I needed help with a couple of minor things like actually comprehending the question and figuring out how to compare lexical values again in java, but I made the helper method and main method all on my own! The time complexity could probably be improved but I am happy that I figured it out. Had to first find the smallest lexical value in a string, count the amount of instances of that value, and then compare strings of one array to another string array and add the compared value to an integer array. the method name should be the link to the leetcode problem most likely. <br />
+
+twoDigitville.java <br />
+A little too tired to write much here. Find two duplicates in an integer array and return them as a new array. Couldn't figure it out but found the answer used a hashset with contains method. the if statement still confuses me. <br />
