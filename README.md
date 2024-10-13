@@ -137,3 +137,6 @@ Proud to say I figured this one out mostly on my own! I needed help with a coupl
 
 twoDigitville.java <br />
 A little too tired to write much here. Find two duplicates in an integer array and return them as a new array. Couldn't figure it out but found the answer used a hashset with contains method. the if statement still confuses me. <br />
+
+maxSumOfArr.java <br />
+This problem was a lot simpler than I was making it out to be. You have to find the max element of an int array, add one to that, then loop 'k' times doing the same operation and summing all the max incremented values together and returning the sum. I was trying to find the max, increment it, add it back into that array and add it to another array to sum at the end. Instead you can just find the max value once, and then have another loop that adds that value to itself, increments the value and loops until you reach k loops. I wasn't too far off in the first solution though. <br />
